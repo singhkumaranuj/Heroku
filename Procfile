@@ -1,1 +1,1 @@
-web: gunicorn app:anuj_video
+web: gunicorn app:app
